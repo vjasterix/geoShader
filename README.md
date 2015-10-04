@@ -8,6 +8,7 @@ squares
 
 For Touchdesigner. Example of using geometry shaders. Geometry shaders are handy for taking incoming points and rending additional points / tristrips / lines at each face. There's also a displacement shader for the rear mesh looking piece. 
 
+Video sources with fluid / smooth motion tend to work better than skitchy / jumpy / cut stuff.
 Res controls the number of squares.
 /Geo1 use image (button) applies the texture to the geometrys when on. Or uses the uniform picked color of the original vertex uniformly when off.
 
