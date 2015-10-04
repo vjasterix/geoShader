@@ -2,6 +2,9 @@
 squares
 ![](https://i.vimeocdn.com/video/538219175_295x166.webp)
 
+> Licensed under Creative Commons Attribution-NonCommercial. Please request permission if you would like to use for commercial applications.
+
+***
 
 For Touchdesigner. Example of using geometry shaders. Geometry shaders are handy for taking incoming points and rending additional points / tristrips / lines at each face. There's also a displacement shader for the rear mesh looking piece. 
 
